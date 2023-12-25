@@ -1,6 +1,8 @@
 # Three.js
 Today created Audio Visualizer 3D In Three.js
 
+Step by Step :
+
 1.Clone the repository;
 
 2.Open the folder in Visual Studio Code;
